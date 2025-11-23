@@ -1,15 +1,18 @@
 ---
-title: "About"
+title: "Hilary Lin"
+about:
+  template: trestles
+  image: profile_picture.jpeg
+  links: 
+    - icon: github
+      text: Github
+      href: https://github.com/maylinn16
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/maythirilin/"
+    - text: Email
+      url: "mailto:hlinn16@g.ucla.edu"
+      icon: inbox-fill
+    - text: CV
+      url: "cv.pdf"
+toc: false
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-```{r}
-runif(10)
-```

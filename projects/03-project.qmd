@@ -1,0 +1,10 @@
+---
+title: 03-project
+---
+
+Some complicated statistics project
+
+```{r}
+rnorm(100) |> hist()
+rnorm(100) |> mean()
+```

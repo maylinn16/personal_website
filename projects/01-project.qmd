@@ -1,0 +1,12 @@
+---
+title: 01-project
+---
+
+Some complicated statistics project
+
+``` {r}
+runif(10)
+
+```
+
+

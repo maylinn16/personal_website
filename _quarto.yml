@@ -3,12 +3,15 @@ project:
 
 website:
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href : about.qmd
-        text : Information
+      - href: projects.qmd
+        text: Projects
+      - href: Courses.qmd
+        text: Courses
+  page-footer:
+    right: "&copy; 2025, Hilary Lin"        
     
 format:
   html:
