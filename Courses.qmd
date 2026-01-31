@@ -1,11 +1,60 @@
 ---
 title: Courses
-
 ---
 
+Relevant courses taken
 
+## Community College (Skyline / College of San Mateo / Cañada)
 
-relavent courses taken
+**Chemistry & Science** - CHEM 210 – General Chemistry I
 
-- Real Analysis
-- Statistics 101
+**Mathematics & Data** - MATH 251 – Calculus I\
+- MATH 252 – Calculus II\
+- MATH 253 – Calculus III\
+- MATH 200 – Elementary Probability & Statistics\
+- MATH 270 – Linear Algebra\
+- MATH 211 – Introduction to Data Science\
+- MATH 275 – Ordinary Differential Equations (in progress)
+
+**Economics** - ECON 100 – Principles of Macroeconomics\
+- ECON 102 – Principles of Microeconomics
+
+**Computer Science** - CIS 254 – Intro Object-Oriented Programming Design\
+- CIS 278 – Programming Methods: C++
+
+**Humanities & Social Sciences** - ENGL 100 – Composition and Reading\
+- ENGL 110 – Composition, Literature & Critical Thinking\
+- ETHN 104 – Asian/Pacific Islanders in US History & Culture\
+- FILM 100 – Introduction to Film\
+- MUS 250 – World Music\
+- COMM 130 – Interpersonal Communication (in progress)\
+- HIST 201 – United States History I (in progress)\
+- IDST 105 – Honors Research Seminar
+
+------------------------------------------------------------------------
+
+## UCLA – Statistics & Data Science Major
+
+### Core Statistics & Data Science
+
+-   STATS 100A – Introduction to Probability & Statistics\
+-   STATS 100B – Introduction to Mathematical Statistics\
+-   STATS 100C – Linear Models\
+-   STATS 101A – Regression & Data Analysis\
+-   STATS 101B – Design & Analysis of Experiments\
+-   STATS 101C – Regression & Data Mining (in progress)\
+-   STATS 102A – Intro to Computational Statistics (R)\
+-   STATS 102C – Monte Carlo Methods\
+-   STATS 140XP – Statistical Consulting (in progress)\
+-   STATS 21 – Python & Other Technologies (in progress)
+
+### Data Science & Digital Humanities
+
+-   DATASCI 4 – Social Good Computing\
+-   DGT HUM 101 – Digital Humanities\
+-   DGT HUM 120 – Social Media Data Analysis (in progress)
+
+### Additional Coursework
+
+-   STATS 20 – Programming with R\
+-   ACCT 1A – Accounting Principles for Management
